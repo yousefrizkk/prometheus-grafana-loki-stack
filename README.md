@@ -225,7 +225,6 @@ ps -ef | grep load.sh
 ## 👤 Author
 
 **Yousef** — DevOps & Cloud Engineering Student  
-📍 Damietta, Egypt  
 🔗 [LinkedIn](#) | [GitHub](#)
 
 ---
