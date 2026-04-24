@@ -222,11 +222,4 @@ ps -ef | grep load.sh
 
 ---
 
-## 👤 Author
-
-**Yousef** — DevOps & Cloud Engineering Student  
-🔗 [LinkedIn](#) | [GitHub](#)
-
----
-
 > _Built as a hands-on observability project to practice real-world monitoring architecture on AWS._
